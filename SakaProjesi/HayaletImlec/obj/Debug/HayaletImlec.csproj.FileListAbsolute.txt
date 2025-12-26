@@ -1,0 +1,9 @@
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\bin\Debug\HayaletImlec.exe.config
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\bin\Debug\HayaletImlec.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\bin\Debug\HayaletImlec.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.csproj.AssemblyReference.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.Properties.Resources.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.csproj.GenerateResource.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.csproj.CoreCompileInputs.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\HayaletImlec\obj\Debug\HayaletImlec.pdb

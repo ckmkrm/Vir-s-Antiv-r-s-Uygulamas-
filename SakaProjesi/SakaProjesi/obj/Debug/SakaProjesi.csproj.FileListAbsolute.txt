@@ -1,0 +1,9 @@
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\bin\Debug\SakaProjesi.exe.config
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\bin\Debug\SakaProjesi.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\bin\Debug\SakaProjesi.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.csproj.AssemblyReference.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.Properties.Resources.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.csproj.GenerateResource.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.csproj.CoreCompileInputs.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\SakaProjesi\obj\Debug\SakaProjesi.pdb

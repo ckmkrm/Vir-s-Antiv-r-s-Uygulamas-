@@ -1,0 +1,11 @@
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\bin\Debug\ImlecKurtarici.exe.config
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\bin\Debug\ImlecKurtarici.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\bin\Debug\ImlecKurtarici.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.csproj.AssemblyReference.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.Form1.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.Properties.Resources.resources
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.csproj.GenerateResource.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.csproj.CoreCompileInputs.cache
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.exe
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\ImlecKurtarici.pdb
+C:\Users\lenovo-pc\Desktop\Visual Studio 2022\SakaProjesi\ImlecKurtarici\obj\Debug\HayaletImlec.Form1.resources
